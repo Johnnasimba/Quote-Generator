@@ -1,1 +1,2 @@
 There is a bug when fetching data. This bug is caused by cors policy and to fix it i have simply installed a chrome extension to ignore the policy. However this will only work on my machine and not on everyone elses. I have not yet fixed the bug as i'm still learning more about it and once i find a better solution it will be fixed. 
+
